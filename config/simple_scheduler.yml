@@ -13,10 +13,10 @@ tweet_task:
   every: '1.hours'
   at: "*:15"
 
-#assembly_task:
-#  class: 'AssembleJob'
-#  every: '30.minutes'
-#  at: "*:00"
+assembly_task:
+ class: 'AssembleJob'
+ every: '30.minutes'
+ at: "*:00"
 
 imagination_task:
   class: 'Images::ImagineImagesJob'
