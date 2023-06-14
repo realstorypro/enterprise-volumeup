@@ -4,7 +4,7 @@ topics:
     sub_topics:
       - name: Joe Biden
         stream_id: feed/https://feedly.com/f/alert/b627cb81-586f-49b9-83f5-afd78e827f3f
-        min_tags_for_story: 3
+        min_tags_for_story: 2
         max_stories_per_day: 2
         storypro_category_id: 12
         storypro_user_id: 7
@@ -169,7 +169,7 @@ topics:
 
       - name: Entheogens
         stream_id: feed/https://feedly.com/f/alert/bd041aa6-410b-4f08-beea-537fabeb57d3
-        min_tags_for_story: 2
+        min_tags_for_story: 1
         max_stories_per_day: 2
         storypro_category_id: 82
         storypro_user_id: 11
