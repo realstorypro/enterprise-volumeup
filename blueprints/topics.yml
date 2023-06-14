@@ -9,7 +9,7 @@ topics:
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
-        prompts: 'politics'
+        prompts: 'heroic'
 
       - name: Donald Trump
         stream_id: feed/https://feedly.com/f/alert/6de0f70a-cb41-4ec1-9dc3-d6c1fe32edfd
@@ -18,7 +18,7 @@ topics:
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
-        prompts: 'politics'
+        prompts: 'heroic'
 
       - name: Ron DeSantis
         stream_id: feed/https://feedly.com/f/alert/629b4c92-92ba-4d3b-b416-1dc17e42a66e
@@ -27,7 +27,7 @@ topics:
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
-        prompts: 'politics'
+        prompts: 'heroic'
 
       - name: Robert Kennedy
         stream_id: feed/https://feedly.com/f/alert/8d8fc20b-ffa6-435a-993c-b44b31cee7a9
@@ -36,7 +36,7 @@ topics:
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
-        prompts: 'politics'
+        prompts: 'heroic'
 
   - name: Sports
     maximum_topics: 6
