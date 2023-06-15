@@ -5,7 +5,7 @@ topics:
       - name: Joe Biden
         stream_id: feed/https://feedly.com/f/alert/b627cb81-586f-49b9-83f5-afd78e827f3f
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
@@ -152,7 +152,7 @@ topics:
       - name: Space
         stream_id: feed/https://feedly.com/f/alert/c6ffe709-f34f-40cc-ab24-0538d3c55a69
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 82
         storypro_user_id: 11
         ai_disclaimer: false
@@ -170,7 +170,7 @@ topics:
       - name: Entheogens
         stream_id: feed/https://feedly.com/f/alert/bd041aa6-410b-4f08-beea-537fabeb57d3
         min_tags_for_story: 1
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 82
         storypro_user_id: 11
         ai_disclaimer: false
