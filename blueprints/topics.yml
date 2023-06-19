@@ -32,7 +32,7 @@ topics:
       - name: Robert Kennedy
         stream_id: feed/https://feedly.com/f/alert/8d8fc20b-ffa6-435a-993c-b44b31cee7a9
         min_tags_for_story: 1
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 12
         storypro_user_id: 7
         ai_disclaimer: true
@@ -44,7 +44,7 @@ topics:
       - name: MMA
         stream_id: feed/https://feedly.com/f/alert/0a806083-d7a1-432d-a77e-ebab1f1a169c
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 1
         storypro_category_id: 83
         storypro_user_id: 4
         ai_disclaimer: true
@@ -53,7 +53,7 @@ topics:
       - name: American Football
         stream_id: feed/https://feedly.com/f/alert/c84be72f-892f-48d0-9ec6-a9ced03f6065
         min_tags_for_story: 2
-        max_stories_per_day: 1
+        max_stories_per_day: 2
         storypro_category_id: 83
         storypro_user_id: 4
         ai_disclaimer: true
@@ -62,7 +62,7 @@ topics:
       - name: Basketball
         stream_id: feed/https://feedly.com/f/alert/aa390cd3-71d3-4793-8265-3971122b802b
         min_tags_for_story: 2
-        max_stories_per_day: 1
+        max_stories_per_day: 2
         storypro_category_id: 83
         storypro_user_id: 4
         ai_disclaimer: true
@@ -83,7 +83,7 @@ topics:
       - name: Hollywood
         stream_id: feed/https://feedly.com/f/alert/203ac1ee-a61b-4a11-b953-2a503f1fec0d
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 17
         storypro_user_id: 12
         ai_disclaimer: true
@@ -92,7 +92,7 @@ topics:
       - name: Los Angeles
         stream_id: feed/https://feedly.com/f/alert/5322c3c1-e293-43f4-9a6a-4283f36feadd
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 17
         storypro_user_id: 12
         ai_disclaimer: true
@@ -110,7 +110,7 @@ topics:
       - name: Sex
         stream_id: feed/https://feedly.com/f/alert/13c50453-b861-4a7d-9831-d71d078a677f
         min_tags_for_story: 2
-        max_stories_per_day: 2
+        max_stories_per_day: 3
         storypro_category_id: 7
         storypro_user_id: 12
         ai_disclaimer: true
