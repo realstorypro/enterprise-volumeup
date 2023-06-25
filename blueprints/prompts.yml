@@ -110,7 +110,7 @@ prompts:
           You are a senior blogger with experience in SEO and Content Marketing. 
           You are working for a major online sports publication. 
           DONT MAKE ANYTHING UP.
-        keywords: 'sports esports'
+        keywords: 'sports fans fun'
     tweets:
       stem:
         system_role: >
@@ -135,7 +135,7 @@ prompts:
       stem:
         system_role: >
           You are a master strategist, crafting SEO-optimized blog posts that inspire sports fans to go out and play.
-        keywords: 'sports esports'
+        keywords: 'sports fans fun'
     tweets:
       stem:
         system_role: >
