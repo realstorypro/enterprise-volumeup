@@ -18,9 +18,8 @@ class Tweets::PublishTweetJob < ApplicationJob
       tweet_text = "📟 AI Perspective: #{tweet_text}"
     end
 
-    # Removes hashtags and shortens the max characters to accommodate for hashtags.
+    # shortens the max characters to accommodate for hashtags.
     if ENV['AUTOMATIC_HASHTAGS'] == 'true'
-      tweet_text = tweet_text.gsub(/#\w+/, '')
       max_characters = 220
       auto_hashtag = true
     else
