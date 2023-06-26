@@ -20,7 +20,7 @@ class Tweets::MakeStemJob < ApplicationJob
         #{discussion.stem}
     BRIEF
 
-    tone = %w[funny sarcastic mean enraged appalled confrontational]
+    tone = %w[funny sarcastic]
 
     question = <<~QUESTION
         - You have received the following as a news story about `#{story.sub_topic.name}` and `#{story.tag.name}`.
