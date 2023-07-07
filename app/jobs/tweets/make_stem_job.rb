@@ -20,11 +20,9 @@ class Tweets::MakeStemJob < ApplicationJob
         #{discussion.stem}
     BRIEF
 
-    tone = %w[funny sarcastic]
-
     question = <<~QUESTION
         - You have received the following as a news story about `#{story.sub_topic.name}` and `#{story.tag.name}`.
-        - It is your job to write a #{tone.sample} 200 character `tweet` about this story.
+        - It is your job to write a 200 character `tweet` about this story.
         - You must include relevant 2 to 3 `hashtags` and  2 to 3 `emojis` into the tweet.
         - The return result MUST be in JSON format in the following structure:
 
